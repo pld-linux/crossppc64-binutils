@@ -1,9 +1,9 @@
 Summary:	Cross PPC64 GNU binary utility development utilities - binutils
-Summary(es.UTF-8):   Utilitarios para desarrollo de binarios de la GNU - PPC64 binutils
-Summary(fr.UTF-8):   Utilitaires de développement binaire de GNU - PPC64 binutils
-Summary(pl.UTF-8):   Skrośne narzędzia programistyczne GNU dla PPC64 - binutils
-Summary(pt_BR.UTF-8):   Utilitários para desenvolvimento de binários da GNU - PPC64 binutils
-Summary(tr.UTF-8):   GNU geliştirme araçları - PPC64 binutils
+Summary(es.UTF-8):	Utilitarios para desarrollo de binarios de la GNU - PPC64 binutils
+Summary(fr.UTF-8):	Utilitaires de développement binaire de GNU - PPC64 binutils
+Summary(pl.UTF-8):	Skrośne narzędzia programistyczne GNU dla PPC64 - binutils
+Summary(pt_BR.UTF-8):	Utilitários para desenvolvimento de binários da GNU - PPC64 binutils
+Summary(tr.UTF-8):	GNU geliştirme araçları - PPC64 binutils
 Name:		crossppc64-binutils
 Version:	2.17.50.0.3
 Release:	1
